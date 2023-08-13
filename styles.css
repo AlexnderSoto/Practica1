@@ -1,0 +1,12 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para centrar los títulos de las secciones */
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
