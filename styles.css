@@ -6,7 +6,25 @@ body {
 }
 
 /* Estilos para centrar los títulos de las secciones */
-h2 {
+h1 {
     text-align: center;
     margin-bottom: 20px;
 }
+
+/* Estilos para centrar la imagen de la portada */
+header {
+    text-align: center;
+}
+
+
+header img {
+    display: block;
+    margin: 0 auto;
+}
+
+img {
+    height: 500px;
+    width: auto; /* Esto mantiene la relación de aspecto */
+}
+
+
