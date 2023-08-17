@@ -1,0 +1,61 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: justify; /* Agrega justificación al cuerpo completo */
+}
+
+/* Estilos para centrar los títulos de las secciones */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 290px;
+}
+
+/* Estilos para centrar las listas ul de las secciones */
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra horizontalmente */
+    list-style-position: center; /* Centra los puntos */
+    padding-left: 0; /* Elimina el padding izquierdo predeterminado de la lista */
+}
+
+li {
+    width: 100%; /* Ocupa todo el ancho disponible */
+    margin: 100; /* Elimina el margen por defecto en los elementos de lista */
+}
+
+
+/* Estilos para centrar la imagen de la portada */
+header {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width: auto; /* Esto mantiene la relación de aspecto */
+}
+
+/* Estilos para el párrafo */
+p {
+    margin: 0 auto;
+    max-width: 1200px; /* Ajusta el ancho máximo del párrafo según sea necesario */
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
